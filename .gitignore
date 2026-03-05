@@ -1,4 +1,6 @@
+# ===============================
 # Logs
+# ===============================
 logs
 *.log
 npm-debug.log*
@@ -7,15 +9,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# ===============================
+# Node modules
+# ===============================
+node_modules/
 
+# ===============================
+# Build folders
+# ===============================
+dist/
+dist-ssr/
+build/
+
+# ===============================
 # Editor directories and files
-.vscode/*
+# ===============================
+.vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
@@ -23,32 +34,26 @@ dist-ssr
 *.sln
 *.sw?
 
-# ملفات node_modules
-node_modules/
-
-# ملفات البناء (build)
-dist/
-build/
-
-# ملفات النظام
-.DS_Store
+# ===============================
+# System files
+# ===============================
 Thumbs.db
 
-# ملفات البيئة
+# ===============================
+# Environment files
+# ===============================
 .env
 
-# الصور أو الملفات الكبيرة
+# ===============================
+# Large assets (commented out to allow images)
+# ===============================
+# يمكنك رفع الصور الآن بدون مشكلة
 # assets/*.png
 # assets/*.jpg
 # assets/*.gif
 # assets/*.mp4
 
-# أي ملف يزيد حجمه عن 10 ميجابايت (يمكنك إضافة حسب الحاجة)
-
-node_modules/
-dist/
-build/
-.env
-# *.log
-# assets/*.png
-# assets/*.jpg
+# ===============================
+# Optional: ignore files larger than 10MB
+# ===============================
+# *.{ext}   <-- يمكنك إضافة أي امتداد كبير
