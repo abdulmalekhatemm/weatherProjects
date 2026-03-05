@@ -1,6 +1,6 @@
 # Weather App - تطبيق الطقس
 
-![Weather App Screenshot](./assets/screenshot.png)
+![Weather App Screenshot](./assets/weatherprojects.png)
 
 ## وصف المشروع
 
