@@ -38,10 +38,10 @@ Thumbs.db
 .env
 
 # الصور أو الملفات الكبيرة
-assets/*.png
-assets/*.jpg
-assets/*.gif
-assets/*.mp4
+# assets/*.png
+# assets/*.jpg
+# assets/*.gif
+# assets/*.mp4
 
 # أي ملف يزيد حجمه عن 10 ميجابايت (يمكنك إضافة حسب الحاجة)
 
@@ -49,6 +49,6 @@ node_modules/
 dist/
 build/
 .env
-*.log
-assets/*.png
-assets/*.jpg
+# *.log
+# assets/*.png
+# assets/*.jpg
