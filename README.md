@@ -4,7 +4,7 @@
 
 مشروع ويب تفاعلي يعرض حالة الطقس في أي مدينة باستخدام React و Material-UI، مع دعم **اللغتين العربية والإنجليزية**.
 
-يمكنك مشاهدة المشروع مباشر على: [weatherprojectabboud.netlify.app](https://weatherprojectabboud.netlify.app)
+يمكنك مشاهدة المشروع مباشر على: [weatherprojectabboud.netlify.app](https://weaterprojectabboud.netlify.app)
 
 ---
 
