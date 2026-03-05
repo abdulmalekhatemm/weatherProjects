@@ -48,10 +48,7 @@ Thumbs.db
 # Large assets (commented out to allow images)
 # ===============================
 # يمكنك رفع الصور الآن بدون مشكلة
-# assets/*.png
-# assets/*.jpg
-# assets/*.gif
-# assets/*.mp4
+
 
 # ===============================
 # Optional: ignore files larger than 10MB
