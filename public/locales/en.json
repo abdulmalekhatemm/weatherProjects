@@ -1,0 +1,22 @@
+{
+  "en": {
+    "city": "Sanaa",
+    "degree": "Temperature",
+    "min": "Min",
+    "max": "Max",
+    "description": "Description",
+    "english": "English",
+    "arabic": "Arabic",
+    "date_format": "MMMM Do YYYY, h:mm:ss a"
+  },
+  "ar": {
+    "city": "صنعاء",
+    "degree": "درجة الحرارة",
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "description": "الوصف",
+    "english": "إنجليزي",
+    "arabic": "عربي",
+    "date_format": "MMMM Do YYYY, h:mm:ss a"
+  }
+}

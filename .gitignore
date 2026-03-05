@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ملفات node_modules
+node_modules/
+
+# ملفات البناء (build)
+dist/
+build/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات البيئة
+.env
+
+# الصور أو الملفات الكبيرة
+assets/*.png
+assets/*.jpg
+assets/*.gif
+assets/*.mp4
+
+# أي ملف يزيد حجمه عن 10 ميجابايت (يمكنك إضافة حسب الحاجة)
+
+node_modules/
+dist/
+build/
+.env
+*.log
+assets/*.png
+assets/*.jpg

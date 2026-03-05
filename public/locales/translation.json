@@ -1,0 +1,37 @@
+{
+  "en": {
+    "city": "Sanaa",
+    "degree": "Temperature",
+    "min": "Min",
+    "max": "Max",
+    "description": "Description",
+    "temperature_unit": "°C",
+      "clear": "Clear Sky",
+      "clouds": "Cloudy",
+      "rain": "Rain",
+      "snow": "Snow",
+      "thunderstorm": "Thunderstorm",
+      "mist": "Mist",
+ 
+    "english": "English",
+    "arabic": "Arabic",
+    "date_format": "MMMM Do YYYY, h:mm:ss a"
+  },
+  "ar": {
+    "city": "صنعاء",
+    "degree": "درجة الحرارة",
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "description": "الوصف",
+    "temperature_unit": "°م",
+      "clear": "صافي",
+      "clouds": "غائم",
+      "rain": "ممطر",
+      "snow": "ثلج",
+      "thunderstorm": "عاصفة رعدية",
+      "mist": "ضباب",
+    "english": "إنجليزي",
+    "arabic": "عربي",
+    "date_format": "MMMM Do YYYY, h:mm:ss a"
+  }
+}

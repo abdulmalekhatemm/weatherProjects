@@ -1,0 +1,13 @@
+
+{
+  "ar": {
+    "city": "صنعاء",
+    "degree": "درجة الحرارة",
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "description": "الوصف",
+    "english": "إنجليزي",
+    "arabic": "عربي",
+    "date_format": "MMMM Do YYYY, h:mm:ss a"
+  }
+}
